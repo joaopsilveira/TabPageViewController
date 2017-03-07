@@ -1,3 +1,21 @@
+# 0.2.4 Release notes (2017-03-07)
+
+## Enhancements
+
+* fix directory
+
+# 0.2.3 Release notes (2017-02-13)
+
+## Enhancements
+
+* fix current tab for limited mode
+
+# 0.2.2 Release notes (2017-02-13)
+
+## Enhancements
+
+* fix current tab
+
 # 0.2.1 Release notes (2016-08-07)
 
 ## Enhancements

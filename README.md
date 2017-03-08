@@ -48,10 +48,6 @@ Use TabPageOption
  
 `defaultColor: UIColor`
 
-* tabBarAlpha for tab view
-
-`tabBarAlpha: CGFloat`
-
 * tabHeight for tab view
 
 `tabHeight: CGFloat`
@@ -67,6 +63,10 @@ Use TabPageOption
 * pageBackgoundColor for tab page viewcontroller 
 
 `pageBackgoundColor: UIColor`
+
+* isTranslucent for tab view and navigation bar 
+
+`isTranslucent: Bool`
 
 ## Usage
 
